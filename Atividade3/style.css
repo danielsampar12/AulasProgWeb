@@ -32,3 +32,7 @@ tr:nth-child(even){
 td + td {
   border-left: 1px solid grey;
 }
+
+tr#total {
+  background-color: red;
+}
